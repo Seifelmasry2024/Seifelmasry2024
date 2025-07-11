@@ -40,9 +40,13 @@
 </div>
 <br
 
+📊 My Stats
+<div align="center">
+    <a href="https://git.io/streak-stats"><img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Seifelmasry2024&theme=transparent" alt="GitHub Streak" /></a>
+</div>
 
-## 📊 My Stats:
-_____________________
+
 <!--
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seifelmasry2024&theme=default)
@@ -50,7 +54,8 @@ _____________________
 
 -->
 
-## 🤝 Connect With Me:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+🤝 Connect With Me:
 
 <div align="center">
     <a href="www.linkedin.com/in/seif-elmasry-10491b21a" target="_blank">
@@ -69,4 +74,4 @@ _____________________
 </div>
 <br>
 
-## 💙 Views and Followers:
+💙 Views and Followers:
