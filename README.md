@@ -4,7 +4,7 @@
 <!--h1 without bottom border-->
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=900&background=FFFFFF00&center=true&vCenter=true&width=600&height=150&lines=Hi+there%F0%9F%91%8B%2C+I'm+Seif+Elmasry;Front-End+Developer" alt="Typing SVG" /></a></div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3500&pause=900&background=FFFFFF00&center=true&vCenter=true&width=600&height=150&lines=Hi+there%F0%9F%91%8B%2C+I'm+Seif+Elmasry;Front-End+Developer" alt="Typing SVG" /></a></div>
 
 
 <!--About Me-->
@@ -38,9 +38,10 @@
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-<br
+<br>
+  
+## 📊 My Stats:
 
-📊 My Stats
 <div align="center">
     <a href="https://git.io/streak-stats"><img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Seifelmasry2024&theme=transparent" alt="GitHub Streak" /></a>
@@ -59,7 +60,8 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-🤝 Connect With Me:
+
+## 🤝Connect With Me:
 
 <div align="center">
     <a href="www.linkedin.com/in/seif-elmasry-10491b21a" target="_blank">
@@ -78,7 +80,7 @@
 </div>
 <br>
 
-💙 Views and Followers:
+## 💙 Views and Followers:
 
 <a href="https://github.com/seifelmasry2024/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=seifelmasry2024">
