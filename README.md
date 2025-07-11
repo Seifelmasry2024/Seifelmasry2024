@@ -17,7 +17,7 @@
 - 🎨 I am a `Frontend developer`
 - :trophy: I Have `DEPI` Certification in Track `Front-End Development`
 - 💻 **Currently learning** `Back-End ( Dot Net )`
-- :boom: You can visit [My LinkedIn](www.linkedin.com/in/seif-elmasry-10491b21a) 
+- :boom: You can visit [My LinkedIn](https://www.linkedin.com/in/seif-elmasry-10491b21a/) 
 -  I’m a student at 
 <br>
 
