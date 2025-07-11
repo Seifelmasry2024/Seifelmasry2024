@@ -44,15 +44,19 @@
 <div align="center">
     <a href="https://git.io/streak-stats"><img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Seifelmasry2024&theme=transparent" alt="GitHub Streak" /></a>
+  
+ <!--![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seifelmasry2024&theme=transparent)-->
+
+  
 </div>
 
 
-<!--
+<div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seifelmasry2024&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seifelmasry2024&theme=default)
+<a href="https://github.com/seifelmasry2024/github-readme-stats"><img alt="seifelmasry2024's Github Stats" src="https://github-readme-stats.vercel.app/api?username=seifelmasry2024&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/seifelmasry2024/github-readme-stats"><img alt="seifelmasry2024's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifelmasry2024&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</div>
 
--->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 🤝 Connect With Me:
@@ -75,3 +79,13 @@
 <br>
 
 💙 Views and Followers:
+
+<a href="https://github.com/seifelmasry2024/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=seifelmasry2024">
+</a>
+<a href="https://github.com/seifelmasry2024?tab=followers"><img src="https://img.shields.io/github/followers/seifelmasry2024?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+</h3>
+
+<br/>
