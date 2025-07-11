@@ -43,6 +43,12 @@
 
 ## 📊 My Stats:
 _____________________
+<!--
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seifelmasry2024&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seifelmasry2024&theme=default)
+
+-->
 
 ## 🤝 Connect With Me:
 
